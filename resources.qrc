@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Keys/A3.wav</file>
+        <file>Keys/A4.wav</file>
+        <file>Keys/A5.wav</file>
+        <file>Keys/B3.wav</file>
+        <file>Keys/B4.wav</file>
+        <file>Keys/B5.wav</file>
+        <file>Keys/C3.wav</file>
+        <file>Keys/C4.wav</file>
+        <file>Keys/C5.wav</file>
+        <file>Keys/D3.wav</file>
+        <file>Keys/D4.wav</file>
+        <file>Keys/D5.wav</file>
+        <file>Keys/E3.wav</file>
+        <file>Keys/E4.wav</file>
+        <file>Keys/E5.wav</file>
+        <file>Keys/F3.wav</file>
+        <file>Keys/F4.wav</file>
+        <file>Keys/F5.wav</file>
+        <file>Keys/G3.wav</file>
+        <file>Keys/G4.wav</file>
+        <file>Keys/G5.wav</file>
+        <file>Keys/high.mp3</file>
+    </qresource>
+</RCC>
